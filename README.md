@@ -66,6 +66,10 @@ KatalogProduk/
 ├── pom.xml
 └── README.md
 ```
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-18 at 16 34 13" src="https://github.com/user-attachments/assets/7c359564-ebc1-4ae3-b77e-866d51d59916" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-18 at 16 35 19" src="https://github.com/user-attachments/assets/b295b9de-a1e9-47c9-bb3d-abec66098277" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-18 at 16 35 33" src="https://github.com/user-attachments/assets/de2c83fd-919c-4d75-8deb-4078a8ff1e09" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-18 at 16 35 43" src="https://github.com/user-attachments/assets/549ea2f2-daee-4237-abfa-3dbe63cc3499" />
 
 ## ⚙️ Cara Menjalankan Aplikasi
 
